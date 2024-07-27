@@ -17,7 +17,7 @@ function loadingAnimation() {
         } else {
           h5timer.innerHTML = grow;
         }
-      }, 33);
+      }, 35);
     },
   });
   tl.to(".line h2", {
